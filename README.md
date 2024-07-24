@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Prabhat Arora</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatarora2111&label=Profile%20views&color=0e75b6&style=flat" alt="belikenikhil03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammorozov&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatarora2111" /> </p>
 
 
 
@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prabhat-arora-b95982211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilarora0309" height="30" width="40" /></a>
-<a href="https://instagram.com/_prabhat_arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="be.like.nikhil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prabhat-arora-b95982211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhatarora2111" height="30" width="40" /></a>
+<a href="https://instagram.com/_prabhat_arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabhatarora2111" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
