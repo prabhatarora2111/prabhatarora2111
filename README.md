@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Prabhat Arora</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=belikenikhil03&label=Profile%20views&color=0e75b6&style=flat" alt="belikenikhil03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatarora2111&label=Profile%20views&color=0e75b6&style=flat" alt="belikenikhil03" /> </p>
 
 
 
