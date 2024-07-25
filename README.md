@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI**
 
-- 📫 How to reach me **prabhatarora2111@gmail.com**
+- 📫 How to reach me **prabhatarora2111@gmail.com, aroraprabhat2111@gmail.com**
 
 - ⚡ Fun fact **I'm a coder who loves to spice up my life by crafting innovative software solutions and delicious dishes!!**
 
