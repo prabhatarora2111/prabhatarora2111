@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **prabhatarora2111@gmail.com, aroraprabhat2111@gmail.com**
 
-- ⚡ Fun fact **I'm a coder who loves to spice up my life by crafting innovative software solutions and delicious dishes!**
+- ⚡ Fun fact **I'm a coder who loves to spice up my life by crafting innovative software solutions and delicious dishes!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
